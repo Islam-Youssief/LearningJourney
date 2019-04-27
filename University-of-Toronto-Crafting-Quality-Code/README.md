@@ -1,12 +1,19 @@
 ## University of Toronto
 ## - Learn to Program: Crafting Quality Code
 ## Solutions for UofT's Learn to Program: Crafting Quality Code 
-## course can be found here - [Crafting Quality Code](https://www.coursera.org/learn/program-code)
-![University of Toronto](https://i.imgur.com/pmA0s44.png)
+## Course can be found here - [Crafting Quality Code](https://www.coursera.org/learn/program-code)
+
+<p align="center">
+  <img src="https://i.imgur.com/pmA0s44.png" alt="Sublime's custom image"/>
+</p>
+
+
 ## Ofcourse , You are welcome to give any notes any time.
 
-<center>#### ![University of Toronto](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS : Instructors: Jennifer Campbell, Paul Gries
-</center>
+<p align="center">
+  <img src="http://i.imgur.com/Qktqnu1.png" alt="Sublime's custom image"/>
+   Instructors: Jennifer Campbell, Paul Gries
+</p>
 
 ## Course Description
 
